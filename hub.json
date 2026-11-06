@@ -1,0 +1,14 @@
+{
+ "subjects": [
+  {
+   "slug": "industrial-electricity",
+   "title": "الكهرباء الصناعية",
+   "chapters": [
+    {
+     "slug": "ch04-cranes",
+     "title": "الفصل 04 - الرافعات"
+    }
+   ]
+  }
+ ]
+}
