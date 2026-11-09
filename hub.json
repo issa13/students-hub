@@ -43,6 +43,16 @@
      "title": "Chapter 01 - Introduction to Programming"
     }
    ]
+  },
+  {
+   "slug": "digital-electronics-ts1",
+   "title": "Digital Electronics - TS1",
+   "chapters": [
+    {
+     "slug": "ch01-numbering-systems",
+     "title": "Chapter 1: Numbering Systems and Codes"
+    }
+   ]
   }
  ]
 }
