@@ -33,6 +33,16 @@
      "title": "Chapter 01 - Making new bodies"
     }
    ]
+  },
+  {
+   "slug": "computer-science-ts",
+   "title": "Computer Science - TS",
+   "chapters": [
+    {
+     "slug": "ch01-intro-programming",
+     "title": "Chapter 01 - Introduction to Programming"
+    }
+   ]
   }
  ]
 }
