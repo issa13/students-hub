@@ -53,6 +53,16 @@
      "title": "Chapter 1: Numbering Systems and Codes"
     }
    ]
+  },
+  {
+   "slug": "electric-machines-bt3",
+   "title": "آلات كهربائية - BT3",
+   "chapters": [
+    {
+     "slug": "ch01-single-phase-transformer",
+     "title": "الفصل 01 - مراجعة المحول أحادي الطور"
+    }
+   ]
   }
  ]
 }
