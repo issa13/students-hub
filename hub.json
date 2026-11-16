@@ -2,7 +2,7 @@
  "subjects": [
   {
    "slug": "industrial-electricity",
-   "title": "الكهرباء الصناعية",
+   "title": "الكهرباء الصناعية - BT3",
    "chapters": [
     {
      "slug": "ch01-panels",
@@ -11,54 +11,32 @@
     {
      "slug": "ch02-motor-control",
      "title": "الفصل 02 - التحكم في المحركات غير المتزامنة ثلاثية الطور"
-    },
-    {
-     "slug": "ch04-cranes",
-     "title": "الفصل 04 - الرافعات"
     }
    ]
   },
   {
    "slug": "arduino",
-   "title": "الأردوينو",
+   "title": "الأردوينو - BT3",
    "chapters": [
     {
-     "slug": "ch04-analog-sensors",
-     "title": "الفصل 04 - المداخل التناظرية والحساسات"
-    }
-   ]
-  },
-  {
-   "slug": "developmental-biology",
-   "title": "Developmental Biology",
-   "chapters": [
-    {
-     "slug": "ch01-making-new-bodies",
-     "title": "Chapter 01 - Making new bodies"
-    }
-   ]
-  },
-  {
-   "slug": "computer-science-ts",
-   "title": "Computer Science - TS",
-   "chapters": [
-    {
-     "slug": "ch01-intro-programming",
-     "title": "Chapter 01 - Introduction to Programming"
-    }
-   ]
-  },
-  {
-   "slug": "digital-electronics-ts1",
-   "title": "Digital Electronics - TS1",
-   "chapters": [
-    {
-     "slug": "ch01-numbering-systems",
-     "title": "Chapter 1: Numbering Systems and Codes"
+     "slug": "ch01-foundations",
+     "title": "الفصل 01 - التأسيس في أردوينو"
     },
     {
-     "slug": "ch02-logic-gates",
-     "title": "Chapter 2: Logic Gates"
+     "slug": "ch02-digital-thermometer",
+     "title": "الفصل 02 - مقياس الحرارة الرقمي"
+    },
+    {
+     "slug": "ch03-motor-control",
+     "title": "الفصل 03 - التحكم بالمحركات"
+    },
+    {
+     "slug": "ch04-light-sensor-robot",
+     "title": "الفصل 04 - المستشعر الضوئي والروبوت"
+    },
+    {
+     "slug": "ch05-ultrasonic-robot",
+     "title": "الفصل 05 - الموجات فوق الصوتية والروبوت"
     }
    ]
   },
@@ -73,6 +51,58 @@
     {
      "slug": "ch02-three-phase-transformer",
      "title": "الفصل 02 - المحول ثلاثي الطور"
+    }
+   ]
+  },
+  {
+   "slug": "computer-science-ts",
+   "title": "Computer Science - TS",
+   "chapters": [
+    {
+     "slug": "ch01-intro-programming",
+     "title": "Chapter 01 - Introduction to Programming (C++)"
+    },
+    {
+     "slug": "ch02-program-structure",
+     "title": "Chapter 02 - Structure of a C++ Program"
+    },
+    {
+     "slug": "ch03-conditions",
+     "title": "Chapter 03 - Conditions in C++"
+    },
+    {
+     "slug": "ch04-loops",
+     "title": "Chapter 04 - Loops in C++"
+    },
+    {
+     "slug": "ch05-practical-exercises",
+     "title": "Chapter 05 - Practical Exercises"
+    },
+    {
+     "slug": "ch06-arrays",
+     "title": "Chapter 06 - Arrays in C++"
+    },
+    {
+     "slug": "ch07-functions",
+     "title": "Chapter 07 - Functions in C++"
+    },
+    {
+     "slug": "ch08-recursion",
+     "title": "Chapter 08 - Recursion in C++"
+    }
+   ]
+  },
+  {
+   "slug": "digital-electronics-ts1",
+   "title": "Digital Electronics - TS1",
+   "chapters": [
+    {
+     "slug": "ch01-numbering-systems",
+     "title": "Chapter 1: Numbering Systems and Codes"
+    },
+    {
+     "slug": "ch02-logic-gates",
+     "title": "Chapter 2: Logic Gates"
     }
    ]
   }
