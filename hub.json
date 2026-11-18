@@ -103,6 +103,10 @@
     {
      "slug": "ch02-logic-gates",
      "title": "Chapter 2: Logic Gates"
+    },
+    {
+     "slug": "ch03-boolean-algebra",
+     "title": "Chapter 3: Boolean Algebra"
     }
    ]
   }
