@@ -159,6 +159,10 @@
     {
      "slug": "ch07-mux-demux",
      "title": "Chapter 7: Multiplexers and Demultiplexers"
+    },
+    {
+     "slug": "ch08-flip-flops",
+     "title": "Chapter 8: Flip-Flops"
     }
    ]
   }
