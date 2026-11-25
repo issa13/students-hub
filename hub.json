@@ -155,6 +155,10 @@
     {
      "slug": "ch06-encoders-decoders",
      "title": "Chapter 6: Encoders and Decoders"
+    },
+    {
+     "slug": "ch07-mux-demux",
+     "title": "Chapter 7: Multiplexers and Demultiplexers"
     }
    ]
   }
