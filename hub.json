@@ -167,6 +167,10 @@
     {
      "slug": "ch09-registers",
      "title": "Chapter 9: Registers"
+    },
+    {
+     "slug": "ch10-counters",
+     "title": "Chapter 10: Binary Counters"
     }
    ]
   }
