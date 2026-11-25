@@ -147,6 +147,14 @@
     {
      "slug": "ch04-combinational-circuits",
      "title": "Chapter 4: Combinational Logic Circuits"
+    },
+    {
+     "slug": "ch05-binary-arithmetic",
+     "title": "Chapter 5: Binary Arithmetic"
+    },
+    {
+     "slug": "ch06-encoders-decoders",
+     "title": "Chapter 6: Encoders and Decoders"
     }
    ]
   }
