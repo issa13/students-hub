@@ -125,6 +125,10 @@
     {
      "slug": "ch08-recursion",
      "title": "Chapter 08 - Recursion in C++"
+    },
+    {
+     "slug": "ch09-strings-pointers",
+     "title": "Chapter 09 - C++ Strings and Pointers"
     }
    ]
   },
